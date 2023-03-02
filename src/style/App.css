@@ -177,6 +177,13 @@ p {
     color: hsl(180, 79%, 56%);
   
   }
+  .btn:hover {
+    background-color: var(--softMagenta);
+    color: white;
+    width: 30%;
+    border-radius: 20px;
+  }
+  
 }
 
 /* Large Devices, Wide Screens */
